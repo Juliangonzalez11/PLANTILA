@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SPORTS.COM</title>
+  <link rel="stylesheet" href="css/styli.css">
+  <meta charset="UTF-8">
+     <title>Pie de pagina</title>
+     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+      <!--Iconos-->
+     <script src="https://kit.fontawesome.com/eb496ab1a0.js" crossorigin="anonymous"></script>
+ </head>
+
+
+<body>
+  <header class="header">
+  		<section class="container">
+  		<section class="btn-menu">
+  			<label for="btn-menu">☰</label>
+  		</section>
+  			<section class="logo">
+  				<h1>SPORTS</h1>
+  			</section>
+  			<nav class="menu">
+
+          <a href="sports.html">Inicio</a>
+          <a href="ayuda.html">ayuda</a>
+        <a href="registro.html">Mi perfil</a>
+  			</nav>
+  		</section>
+  	</header>
+  	<section class="capa"></section>
+  <!--	--------------->
+  <input type="checkbox" id="btn-menu">
+  <section class="container-menu">
+  	<section class="cont-menu">
+  		<nav>
+
+   <a href="cicla.html">Ciclismo</a>
+   <a href="entre-fintes.html">entrenamiento fitnes</a>
+ <a href="tencno.html">tecnologia para deportes</a>
+ <a href="url">Accesorios Deportivos</a>
+   <a href="url">Motosports</a>
+     <a href="url">Deportes de equipo</a>
+  <a href="url">Deportes acuáticos</a>
+   <a href="url">Deportes de invierno y de montaña</a>
+   <a href="url">Deportes de contacto</a>
+   		</nav>
+  		<label for="btn-menu">✖️</label>
+  	</section>
+  </section>
+    <section class="contenido">
+    <section class="parrafo">
+      <section class="secciones">
+             <h1>tienda deportiva</h1>
+               <p> Practica tu disciplina favorita En una tienda deportiva puedes encontrar una variedad de ropa, calzado y artículos que te permiten realizar ejercicio para mantener un buen estado de salud y bienestar. Además, encontrarás, equipamiento, accesorios, tecnología, nutrición y todo lo que necesita un deportista aficionado o de alto rendimiento.</p>
+    </section>
+    <section class="secciones">
+          <h1>¿Qué accesorios encuentro en una tienda deportiva?</h1>
+           <p>En la tienda deportiva puedes encontrar una variedad de bicicletas, uniformes, cascos y otros artículos de ciclismo, también, descubrirás guayos para fútbol, balones, patines, bandas elásticas y más accesorios que te permiten practicar tu disciplina favorita.</p>
+   </section>
+
+  </section>
+</section>
+
+ <h1 class="title">ACCESORIOS</h1>
+    <article class="carta">
+<h1>Archivo EDITADO POR JULIAN</h1>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/30.PNG">
+            <h4>BICICLETA URBANA DE CIUDAD</h4>
+
+<a href="INFO.HTML#">INF</a>
+                <p>$1.200.000</p>
+
+            <a href="INFO.HTML">comprar</a>
+        </section>
+
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/syl.png">
+            <h4>Ropa de ciclismo para mujer</h4>
+            <a href="#">INF</a>
+<p>375.000$</p>
+            <a href="#">comprar</a>
+        </section>
+
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/rr.png">
+            <h4>BICICLETA Roadmaster STORM 29</h4>
+            <a href="#">INF</a>
+<p>1,300.000$</p>
+            <a href="#">comprar</a>
+        </section>
+
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/b.png">
+            <h4> PATINETA8</h4>
+            <a href="#">INF</a>
+<p>300.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/c.png">
+            <h4>Colchon Inflable</h4>
+            <a href="#">INF</a>
+<p>200.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+<img src="img/d.png">
+          <h4>Bicicleta Estática</h4>
+          <a href="#">INF</a>
+<p>1.700.000$</p>
+          <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+<img src="img/e.png">
+          <h4>Balon De Futbol</h4>
+          <a href="#">INF</a>
+<p>30.000$</p>
+          <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/f.png">
+            <h4>Patines</h4>
+            <a href="#">INF</a>
+<p>200.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/g.png">
+            <h4>GUANTES DE MMA EVERLAST</h4>
+            <a href="#">INF</a>
+<p>130.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/n.png">
+            <h4>BALÓN SPALDING NBA</h4>
+            <a href="#">INF</a>
+<p>150.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/h.png">
+            <h4>LAZO CON PESO EVERLAST</h4>
+            <a href="#">INF</a>
+<p>20.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/i.png">
+            <h4>RODILLERA EN NEOPRENO </h4>
+            <a href="#">INF</a>
+<p>26.400$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/j.png">
+            <h4>BOLA DE PILATES </h4>
+            <a href="#">INF</a>
+<p>21.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/k.png">
+            <h4>SACO DE BOXEO </h4>
+            <a href="#">INF</a>
+<p>140.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/l.png">
+            <h4>CINTURÓN DE LEVANTAMIENTO</h4>
+            <a href="#">INF</a>
+<p>104.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/m.png">
+            <h4>MANCUERNA ENCAUCHETADA</h4>
+            <a href="#">INF</a>
+<p>80.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/ñ.png">
+            <h4>COJÍN INESTABLE SPORTIVA</h4>
+            <a href="#">INF</a>
+<p>60.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/o.png">
+            <h4>RUEDA ABDOMINAL SPORTFITNESS</h4>
+            <a href="#">INF</a>
+<p>90.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/p.png">
+            <h4>SET DE MANCUERNAS RCADM</h4>
+            <a href="#">INF</a>
+<p>600.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/q.png">
+            <h4>ESCALERA RÁPIDA </h4>
+            <a href="#">INF</a>
+<p>29.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/r.png">
+            <h4>PERA DE VELOCIDAD UFC</h4>
+            <a href="#">INF</a>
+<p>50.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/s.png">
+            <h4>CHALECO SPORTFITNESS</h4>
+            <a href="#">INF</a>
+<p>90.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/t.png">
+            <h4>GAFAS FUTURA  SPEEDO</h4>
+            <a href="#">INF</a>
+<p>1,300.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/w.png">
+            <h4>GUANTE FORMACIÓN GOLTY</h4>
+            <a href="#">INF</a>
+<p>400.000$</p>
+            <a href="#">comprar</a>
+        </section>
+        <section class="card">
+<a href="#">nuevo</a>
+            <img src="img/v.png">
+            <h4>GUAYERA TIRO ADIDAS</h4>
+            <a href="#">INF</a>
+<p>45.000$</p>
+            <a href="#">comprar</a>
+        </section>
+</article>
+</body>
+<footer class="pie-pagina">
+        <section class="grupo-1">
+            <section class="box">
+                <figure>
+                    <a href="#">
+                        <img src="img/Y.png" alt="Logo de SLee Dw">
+                    </a>
+                </figure>
+            </section>
+            <section class="box">
+                <h2>SOBRE NOSOTROS</h2>
+                <p>de accesorios Deportivos donde podrás encontrar gran variedad de artículos y de la mejor calidad brindando el mejor servicio de compra y entrega al cliente</p>
+                <p>republica de colombia,Bogota´_+57-310-668-7851_maurorpte324@gmail.</p>
+            </section>
+            <section class="box">
+                <h2>SIGUENOS</h2>
+                <section class="red-social">
+                  <a href="https://es-la.facebook.com/" class="fa fa-facebook"></a>
+                  <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+                  <a href="https://twitter.com/" class="fa fa-twitter"></a>
+                  <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+                </section>
+            </section>
+        </section>
+        <section class="grupo1">
+            <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">licencia de Creative Commons Reconocimiento-SinObraDerivada 4.0 Internacional</a>.
+
+
+        </section>
+        <section class="grupo-2">
+          
+            <small>&copy; 2022 <b>SPORTS</b> - Todos los Derechos Reservados.</small>
+
+            
+        </section>
+       
+    </footer>
+</html>
